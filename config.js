@@ -16,10 +16,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6285749433476']
 global.premium = ['0']
-global.botname = 'Zets-MD'
-global.packname = '© Zets-MD'
+global.botname = 'Had-Botzz'
+global.packname = '@HAD STORE © Had-Botzz'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
