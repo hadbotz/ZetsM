@@ -28,7 +28,7 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = 'ZETS - MD'
+botname = 'HAD - BOTZZ'
 wm = '© zets-md'
 
 // read database
